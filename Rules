@@ -1,0 +1,9 @@
+# TikTok Rules for Loon
+
+DOMAIN,lf16-effectcdn.byteeffecttos.com,PROXY
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com,PROXY
+DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
+DOMAIN,trae-api-sg.mchost.guru,PROXY
+
+DOMAIN-KEYWORD,musical.ly,PROXY
+DOMAIN-KEYWORD,tiktok,PROXY
