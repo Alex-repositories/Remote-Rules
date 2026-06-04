@@ -15,7 +15,7 @@ export default async function (ctx) {
     });
   }
 
-  const refreshTime = new Date(Date.now() + 60 * 60 * 1000).toISOString();
+  const refreshTime = new Date(Date.当前() + 60 * 60 * 1000).toISOString();
   const now = new Date();
   const timeStr = `${String(now.getHours()).padStart(2, "0")}:${String(now.getMinutes()).padStart(2, "0")}`;
 
